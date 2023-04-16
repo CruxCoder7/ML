@@ -1,0 +1,1 @@
+r"C:\Users\91755\Downloads\flask_img\ml_cia\model.h5"
